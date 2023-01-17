@@ -24,10 +24,15 @@
 ![image](https://user-images.githubusercontent.com/113675674/212868217-2de2866d-628c-40f0-9ea4-8b19c23cfbff.png)  
 
 ## Задача 7.   
-### 
+7.1 ![image](https://user-images.githubusercontent.com/113675674/212872963-5934a837-d17a-48af-8ded-ab4212ab4b26.png)  
+7.2 ![image](https://user-images.githubusercontent.com/113675674/212873212-c4d3a37c-1735-4a83-994e-4faef3b60d28.png)  
 
 ## Задача 8.   
-### 
+![image](https://user-images.githubusercontent.com/113675674/212875368-5e5cda0e-3d4c-492a-a27b-2a8466c343ff.png)  
+![image](https://user-images.githubusercontent.com/113675674/212875419-f1e55608-c851-4664-90bf-fb17d1575e8c.png)
+![image](https://user-images.githubusercontent.com/113675674/212875461-7f22246a-8a60-4976-a0d5-dc75c96c00d9.png)
+![image](https://user-images.githubusercontent.com/113675674/212875504-f96619cf-a8d1-4c98-acfc-eedcd7a5ed23.png)
+![image](https://user-images.githubusercontent.com/113675674/212875538-5efd9970-5ffe-4f07-ab92-727db4ca1c08.png)
 
 ## Задача 9.   
 ### 
