@@ -35,7 +35,6 @@
 ![image](https://user-images.githubusercontent.com/113675674/212875538-5efd9970-5ffe-4f07-ab92-727db4ca1c08.png)
 
 ## Задача 9.   
-### 
+### Проверка числа на четность и нечетность  
+![image](https://user-images.githubusercontent.com/113675674/212876969-a6b1ffff-568e-497e-9b52-7d6136937951.png)  
 
-## Задача 10.   
-### 
