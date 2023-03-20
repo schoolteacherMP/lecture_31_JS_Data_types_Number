@@ -38,3 +38,19 @@
 ### Проверка числа на четность и нечетность  
 ![image](https://user-images.githubusercontent.com/113675674/212876969-a6b1ffff-568e-497e-9b52-7d6136937951.png)  
 
+
+## Задача 10.   
+###  Квадратный корень  
+![image](https://user-images.githubusercontent.com/113675674/226296969-4924dda1-e8b7-4070-ba59-5d0931dc2ecd.png)  
+
+
+## Задача 11.   
+###  Сколько делителей?  
+![image](https://user-images.githubusercontent.com/113675674/226297263-9171aea4-c04a-4a20-90f0-b5d21e57a368.png)  
+
+
+## Задача 12.   
+###  Smooth numbers  
+![image](https://user-images.githubusercontent.com/113675674/226297444-91874812-cee3-4141-a682-282d957a30c7.png)  
+
+
